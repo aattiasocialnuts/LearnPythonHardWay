@@ -54,8 +54,8 @@ print "--------------"
 print poem
 print "--------------"
 
-five = 10 - 2 + 3 - 5
-print "This should be five: %d" % five
+five = 10 - 2 + 3 - 6
+print "This should be five: %s" % five
 
 def secret_formula(started):
     jelly_beans = started * 500
